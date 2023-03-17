@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\bin\Debug\net6.0\RegexStreamReader.exe
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\bin\Debug\net6.0\RegexStreamReader.deps.json
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\bin\Debug\net6.0\RegexStreamReader.runtimeconfig.json
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\bin\Debug\net6.0\RegexStreamReader.dll
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\bin\Debug\net6.0\RegexStreamReader.pdb
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.AssemblyInfo.cs
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.dll
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\refint\RegexStreamReader.dll
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.pdb
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\RegexStreamReader.genruntimeconfig.cache
+C:\Users\opilane\source\repos\RegexStreamReader\RegexStreamReader\obj\Debug\net6.0\ref\RegexStreamReader.dll

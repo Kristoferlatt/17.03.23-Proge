@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\StreamReader\StreamReader\bin\Debug\net6.0\StreamReader.exe
+C:\Users\opilane\source\repos\StreamReader\StreamReader\bin\Debug\net6.0\StreamReader.deps.json
+C:\Users\opilane\source\repos\StreamReader\StreamReader\bin\Debug\net6.0\StreamReader.runtimeconfig.json
+C:\Users\opilane\source\repos\StreamReader\StreamReader\bin\Debug\net6.0\StreamReader.dll
+C:\Users\opilane\source\repos\StreamReader\StreamReader\bin\Debug\net6.0\StreamReader.pdb
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.dll
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\refint\StreamReader.dll
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.pdb
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\StreamReader.genruntimeconfig.cache
+C:\Users\opilane\source\repos\StreamReader\StreamReader\obj\Debug\net6.0\ref\StreamReader.dll

@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.exe
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.deps.json
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.json
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.dll
+C:\Users\opilane\source\repos\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.pdb
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.dll
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.pdb
+C:\Users\opilane\source\repos\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.genruntimeconfig.cache
